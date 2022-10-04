@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Manuel Cebreiro</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+- 🔭 Actualmente estoy en busqueda activa de trabajo.
+- 📚 Mientras tanto, continuo formándome.
 - 📫 Puede contactarme al email **cebreirom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
