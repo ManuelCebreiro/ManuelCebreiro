@@ -12,7 +12,7 @@
 - 📚 Mientras tanto, continuo formándome.   
   
 
-- 🏀  Mi proyecto de fin de curso, [Sporter](https://github.com/ManuelCebreiro/SporterTeam)  
+- 🏀  Mi proyecto en equipo, [Sporter](https://github.com/ManuelCebreiro/SporterTeam)  
   
 
 - ⭐Un proyecto basado en [Star Wars](https://github.com/ManuelCebreiro/SporterTeam)  
