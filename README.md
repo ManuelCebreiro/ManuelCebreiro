@@ -13,9 +13,8 @@
   
 
 - 🏀  Mi proyecto en equipo, [Sporter](https://github.com/ManuelCebreiro/SporterTeam)  
-- 🧮[Control de gastos](https://sensational-mandazi-3d2d05.netlify.app)
-  
-
+- 🧮Proyecto de [Control de gastos](https://sensational-mandazi-3d2d05.netlify.app)
+- 📆Proyecto de [citas pacientes de veterinario](https://leafy-centaur-ca7333.netlify.app)
 - ⭐Un proyecto basado en [Star Wars](https://github.com/ManuelCebreiro/SporterTeam)  
   
 
