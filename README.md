@@ -11,7 +11,7 @@
 
 - 📚 Mientras tanto, continuo formándome.   
   
-
+### **<h3 align="center">Proyectos</h3>**
 - 🏀  Mi proyecto en equipo, [Sporter](https://github.com/ManuelCebreiro/SporterTeam)  
 - 🧮Proyecto de [Control de gastos](https://dulcet-bienenstitch-654ab3.netlify.app)
 - 📆Proyecto de [citas pacientes de veterinario](https://leafy-centaur-ca7333.netlify.app)
