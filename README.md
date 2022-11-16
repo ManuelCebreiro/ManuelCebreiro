@@ -9,8 +9,10 @@
 - 🔎 Actualmente estoy en búsqueda activa de trabajo.  
   
 
-- 📚 Mientras tanto, continuo formándome.   
-  
+- 📚 Mientras tanto, continuo formándome en:<br>
+    > - Python con [Certificado profesional de Automatización de TI de Google con Python](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=B2C&campaignid=9733806670&adgroupid=105159560368&device=c&keyword=free%20python%20programming%20training&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=516860100702&hide_mobile_promo&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeskexf7utRjXwEdmtzqnjV0DZbUIrRjOOj8oDR6m7QOpL2VQVYGQ8aApXiEALw_wcB)   
+    > - React con [Udemy](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.ES_cc.ES&utm_term=_._ag_133925671146_._ad_586920153778_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1005479_._pd__._&utm_term=_._pd__._kw_udemy_._&matchtype=b&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jdteV2_DqLFbErzoYbbebnmTVP49jSqgTxABgSS4tfsI64PY3vpxKkaAuwpEALw_wcB)
+
 ### **<h3 align="center">Proyectos</h3>**
 - 🏀  Mi proyecto en equipo, [Sporter](https://github.com/ManuelCebreiro/SporterTeam)  
 - 🧮Proyecto de [Control de gastos](https://dulcet-bienenstitch-654ab3.netlify.app)
@@ -21,8 +23,10 @@
 
 - ✒Uno de mis primero proyectos donde ponía en practica mis pruebas,[Veterinario](https://github.com/ManuelCebreiro/veterinario)  
   
+### **<h3 align="center">Contacto</h3>**
 
 - 📫 Puede contactarme al email cebreirom@gmail.com  
+- 📱 [Linkedin](https://www.linkedin.com/in/manuelcebreiro/)
   
 
 <br/>  
