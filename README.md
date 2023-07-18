@@ -6,7 +6,7 @@
 ### **<div align="center">Hola 👋, Me llamo Manuel Cebreiro👨‍💻y soy Full-Stack Developer 🚀 Bienvenido</div>**  
   
 
-- 🔎 Actualmente estoy en búsqueda activa de trabajo.  
+- 🔎 Actualmente estoy trabajando, aprendiendo como loco🤪 y bien feliz 😋 .  
   
 
 - 📚 Mientras tanto, continuo formándome en:<br>
