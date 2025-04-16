@@ -9,8 +9,7 @@
 - 🔎 Actualmente estoy trabajando, aprendiendo como loco🤪 y bien feliz 😋 .  
   
 
-- 📚 Mientras tanto, continuo formándome en:<br>
-    > - Python con [Certificado profesional de Automatización de TI de Google con Python](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=B2C&campaignid=9733806670&adgroupid=105159560368&device=c&keyword=free%20python%20programming%20training&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=516860100702&hide_mobile_promo&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeskexf7utRjXwEdmtzqnjV0DZbUIrRjOOj8oDR6m7QOpL2VQVYGQ8aApXiEALw_wcB)   
+- Python con [Certificado profesional de Automatización de TI de Google con Python](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=B2C&campaignid=9733806670&adgroupid=105159560368&device=c&keyword=free%20python%20programming%20training&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=516860100702&hide_mobile_promo&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeskexf7utRjXwEdmtzqnjV0DZbUIrRjOOj8oDR6m7QOpL2VQVYGQ8aApXiEALw_wcB)   
     
 
 ### **<h3 align="center">Proyectos</h3>**
