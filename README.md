@@ -27,7 +27,7 @@
 
 - 📫 Puede contactarme al email cebreirom@gmail.com  
 - 📱 [Linkedin](https://www.linkedin.com/in/manuelcebreiro/)
-- 💎[Portfolio](https://portfolio-manuel-cebreiro.vercel.app/)
+- 💎[Portfolio](https://manuelcebreiro.com/)
   
 
 <br/>  
