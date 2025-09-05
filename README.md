@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ManuelCebreiro/portfolioV2/refs/heads/main/public/manuelbg.webp?token=GHSAT0AAAAAADH27FD6KFR6NJ7NWJGYKD322FOHU5Q" align="center" style="width: 100%" />
+  <img src="https://github.com/ManuelCebreiro/portfolioV2/blob/main/public/manuelbg.webp" align="center" style="width: 100%" />
 </div>  
-  
 
-### **<div align="center">Hola 👋, Me llamo Manuel Cebreiro👨‍💻y soy Full-Stack Developer 🚀 Bienvenido</div>**  
+## **<div align="center">Hola 👋, Me llamo Manuel Cebreiro👨‍💻y soy Full-Stack Developer 🚀 Bienvenido</div>**  
   
 
 - 🔎 Actualmente estoy trabajando, aprendiendo como loco🤪 y bien feliz 😋 .  
